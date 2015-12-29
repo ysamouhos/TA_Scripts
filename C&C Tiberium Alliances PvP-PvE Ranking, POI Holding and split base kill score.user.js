@@ -5,7 +5,7 @@
 // @namespace      pvp_rank_mod
 // @include        https://prodgame*.alliances.commandandconquer.com/*/index.aspx*
 // @grant          none
-// @version        1.7.5
+// @version        1.8
 // ==/UserScript==
 
 (function () {
